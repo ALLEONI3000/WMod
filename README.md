@@ -1,9 +1,7 @@
-==========================================================================
-==========================================================================
+
 Questo script è puramente a scopo dimostrativo
 è stato frutto dall'idea di altri script come MSMG Toolkit e NTLite ecc.
-==========================================================================
-==========================================================================
+
 
 Assicurati che la iso di windows sia integra e non personalizzata
 Le iso personalizzate altrui presentano elaborazioni particolari
