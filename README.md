@@ -1,5 +1,5 @@
 Questo script è puramente a scopo dimostrativo  
-è stato frutto dall’idea di altri script come MSMG Toolkit e NTLite ecc.
+è stato frutto dall’idea di altri script come MSMG Toolkit,NTLite ecc.
 
 Assicurati che la iso di windows sia integra e non personalizzata, le iso personalizzate altrui, presentano elaborazioni particolari a volte non compatibili con questa versione di script.
 
