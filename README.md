@@ -4,10 +4,10 @@ Questo script è puramente a scopo dimostrativo
 Assicurati che la iso di windows sia integra e non personalizzata, le iso personalizzate altrui, presentano elaborazioni particolari a volte non compatibili con questa versione di script.
 
 **Procedimento:**  
-A) Disattiva l’antivirus  
-B) Montare la iso di windows nell’unità  
-C) Lancia WinMod.cmd  
-D) Per cambiare il nome e label della iso, dovrai cambiare il nome in queste stringhe:
+1. Disattiva l’antivirus  
+2. Montare la iso di windows nell’unità  
+3. Lancia WinMod.cmd  
+4. Per cambiare il nome e label della iso, dovrai cambiare il nome in queste stringhe:
 
 **set IsoName=nomeiso**  
 **set IsoLabel=nomelabel**
