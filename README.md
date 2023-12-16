@@ -11,12 +11,13 @@ Procedimento:
 A) Disattiva l'antivirus
 B) Montare la iso di windows nell'unità
 C) Lancia WinMod.cmd
-D) Per cambiare il nome e label della iso, dovrai cambiare il nome in queste stringhe:
+D) Per cambiare il nome e label della iso, 
+dovrai cambiare il nome in queste stringhe:
 
-::####################################
+
 set IsoName=WinMod
 set IsoLabel=WinMod
-::####################################
+
 
 
 Dovrai cambiare il numero 2861 con il numero giusto della tua versione di windows 
