@@ -19,7 +19,7 @@ Esempio Windows 11 versione dicembre 2023<br>
 Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package31bf3856ad364e35amd6410.0.22621.2861<br>
 
 La tua versione se diversa<br> 
-Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package31bf3856ad364e35amd6410.0.22621.numerodellatuaversione<br><br>
+Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package31bf3856ad364e35amd6410.0.22621.xxxx<br><br>
 Si trovano nelle righe *`165/174`*<br>
 
 Nella cartella RegFile puoi aggiungere i file *.reg* che vorrai inserire nel registro
