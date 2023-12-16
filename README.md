@@ -1,3 +1,4 @@
+  
 <p class="has-line-data" data-line-start="0" data-line-end="1">Questo script è puramente a scopo dimostrativo è stato frutto dall’idea di altri script come MSMG Toolkit e NTLite ecc.</p>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Assicurati che la iso di windows sia integra e non personalizzata Le iso personalizzate altrui presentano elaborazioni particolari a volte non compatibili con questa versione di script.</p>
 <p class="has-line-data" data-line-start="4" data-line-end="9">Procedimento:<br>
