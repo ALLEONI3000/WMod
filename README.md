@@ -10,8 +10,8 @@ ASSICURATI CHE LA **ISO** DI WINDOWS SIA INTEGRA E NON PERSONALIZZATA, LE ISO PE
 3.  Lancia WinMod.cmd    
 4.  Per cambiare il nome e label della iso dovrai cambiare il nome in queste stringhe:
 
-**set IsoName=nomeiso 
-set IsoLabel=nomelabel**
+set IsoName=nomeiso<br> 
+set IsoLabel=nomelabel
 
 Dovrai cambiare il numero *2861* con il numero giusto della tua versione di windows se diversa da *2861* per rimuovere alcuni programmi
 
