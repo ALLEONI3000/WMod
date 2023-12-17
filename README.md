@@ -20,6 +20,6 @@ Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package31bf3856ad364e35amd6410.
 
 La tua versione se diversa<br> 
 Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package31bf3856ad364e35amd6410.0.22621.xxxx<br><br>
-Si trovano nelle righe *`165/174`*<br>
+Usabdo Notepad++, si trovano nelle righe *`165/174`*<br>
 
 Nella cartella RegFile puoi aggiungere i file *.reg* che vorrai inserire nel registro
