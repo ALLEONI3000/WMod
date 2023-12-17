@@ -17,7 +17,7 @@ ASSICURATI CHE LA **ISO** DI WINDOWS SIA INTEGRA E NON PERSONALIZZATA, LE ISO PE
 
 Dovrai cambiare il numero *2861* con il numero giusto della tua versione di windows se diversa da *2861* per rimuovere alcuni programmi
 
-**Esempio Windows 11 versione dicembre 2023** 
+**Esempio Windows 11 23H2 versione dicembre 2023** 
 
 Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package31bf3856ad364e35amd6410.0.22621.2861 
 
